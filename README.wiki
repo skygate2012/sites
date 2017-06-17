@@ -780,7 +780,7 @@
 |-
 | '''连线''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E8%BF%9E%E7%BA%BF 维基百科]
 |-
-| &nbsp; || [http://wired.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://wired.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://feeds.wired.com/wired/index Wired Top Stories] || RSS || English, summary, 5 posts/week
 |-
@@ -794,7 +794,7 @@
 |-
 | '''Ars Technica''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Ars_Technica 维基百科]
 |-
-| &nbsp; || [http://arstechnica.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://arstechnica.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://feeds.arstechnica.com/arstechnica/index All News Feed] || RSS || English, full text
 |-
@@ -806,7 +806,7 @@
 |-
 | '''TechCrunch''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/TechCrunch 维基百科]
 |-
-| &nbsp; || [http://techcrunch.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://techcrunch.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://techcrunch.cn/] || Web || 简体中文主页
 |-
@@ -818,7 +818,7 @@
 |-
 | '''Mashable''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Mashable 维基百科]
 |-
-| &nbsp; || [http://mashable.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://mashable.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://feeds.mashable.com/Mashable Feed] || RSS || English, summary
 |-
@@ -828,7 +828,7 @@
 |-
 | '''Engadget''' || &nbsp; || &nbsp; || 介绍参见[https://en.wikipedia.org/wiki/Engadget 维基百科]
 |-
-| &nbsp; || [http://www.engadget.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://www.engadget.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://www.engadget.com/rss.xml Feed] || RSS || English, full text, 260 posts/week
 |-
@@ -848,7 +848,7 @@
 |-
 | '''Hacker News''' || &nbsp; || &nbsp; || 英文缩写HN 介绍参见[https://zh.wikipedia.org/wiki/Hacker_News 维基百科]
 |-
-| &nbsp; || [http://news.ycombinator.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://news.ycombinator.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://news.ycombinator.com/rss Feed] || RSS || English, full text
 |-
@@ -858,7 +858,7 @@
 |-
 | '''Reddit''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Reddit 维基百科]
 |-
-| &nbsp; || [https://www.reddit.com/] || Web || Engilsh Homepage
+| &nbsp; || [https://www.reddit.com/] || Web || English Homepage
 |-
 | &nbsp; || [https://twitter.com/reddit @reddit] || Twitter || English
 |-
@@ -866,7 +866,7 @@
 |-
 | '''Slashdot''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Slashdot 维基百科]
 |-
-| &nbsp; || [http://www.slashdot.org/] || Web || Engilsh Homepage
+| &nbsp; || [http://www.slashdot.org/] || Web || English Homepage
 |-
 | &nbsp; || [http://rss.slashdot.org/Slashdot/slashdot Feed] || RSS || English, full text, 170 posts/week
 |-
@@ -876,7 +876,7 @@
 |-
 | '''MIT 技术评论''' || &nbsp; || &nbsp; || 有一百多年历史 介绍参见[https://zh.wikipedia.org/wiki/%E7%A7%91%E6%8A%80%E5%88%9B%E4%B8%9A 维基百科]
 |-
-| &nbsp; || [http://www.technologyreview.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://www.technologyreview.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://www.techreviewchina.com/] || Web || 简体中文主页
 |-
@@ -941,7 +941,7 @@
 |-
 | '''科学美国人''' || &nbsp; || &nbsp; || 始于1845年 美国存活至今最长命的杂志 介绍参见[https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%BE%8E%E5%9B%BD%E4%BA%BA 维基百科]
 |-
-| &nbsp; || [http://www.scientificamerican.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://www.scientificamerican.com/] || Web || English Homepage
 |-
 | &nbsp; || [http://www.huanqiukexue.com/ 环球科学] || Web || 简体中文主页 授权给《电脑报》杂志社
 |-
@@ -974,23 +974,23 @@
 |-
 | '''Stack Overflow''' || &nbsp; || &nbsp; || 最好的编程问答网站(没有“之一”) 介绍参见[https://zh.wikipedia.org/wiki/Stack_Overflow 维基百科]
 |-
-| &nbsp; || [http://stackoverflow.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://stackoverflow.com/] || Web || English Homepage
 |-
 | '''GitHub''' || &nbsp; || &nbsp; || 最好的开源项目集散地(没有“之一”) 介绍参见[https://zh.wikipedia.org/wiki/GitHub 维基百科]
 |-
-| &nbsp; || [https://github.com/] || Web || Engilsh Homepage
+| &nbsp; || [https://github.com/] || Web || English Homepage
 |-
 | '''Code Project''' || &nbsp; || &nbsp; || 老牌的编程社区 介绍参见[https://en.wikipedia.org/wiki/Code_Project 维基百科]
 |-
-| &nbsp; || [http://codeproject.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://codeproject.com/] || Web || English Homepage
 |-
 | '''CodeCademy''' || &nbsp; || &nbsp; || 这个适合新手入门 介绍参见[https://zh.wikipedia.org/wiki/Codecademy 维基百科]
 |-
-| &nbsp; || [http://www.codecademy.com/] || Web || Engilsh Homepage
+| &nbsp; || [http://www.codecademy.com/] || Web || English Homepage
 |-
 | '''IBM DeveloperWorks''' || &nbsp; || &nbsp; || 包含各个领域的编程文档 介绍参见[https://en.wikipedia.org/wiki/IBM_DeveloperWorks 维基百科]
 |-
-| &nbsp; || [http://www.ibm.com/developerworks] || Web || Engilsh Homepage
+| &nbsp; || [http://www.ibm.com/developerworks] || Web || English Homepage
 |-
 | &nbsp; || [http://www.ibm.com/developerworks/cn/] || Web || 简体中文主页
 |-
@@ -1002,7 +1002,7 @@
 |-
 | '''MSDN''' || &nbsp; || &nbsp; || Windows平台编程备查 介绍参见[https://zh.wikipedia.org/wiki/MSDN%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%BA%93 维基百科]
 |-
-| &nbsp; || [http://msdn.microsoft.com/en-us/library/] || Web || Engilsh Homepage
+| &nbsp; || [http://msdn.microsoft.com/en-us/library/] || Web || English Homepage
 |-
 | &nbsp; || [http://msdn.microsoft.com/zh-cn/library/] || Web || 简体中文主页
 |}
